@@ -1,6 +1,6 @@
 Name:		texlive-texlive-scripts-extra
-Version:	62517
-Release:	2
+Version:	71746
+Release:	1
 Summary:	TeX Live scripts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive-scripts-extra
