@@ -3,7 +3,7 @@ Version:	71746
 Release:	1
 Summary:	TeX Live scripts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive-scripts-extra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texlive-scripts-extra
 License:	distributable
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-scripts-extra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-scripts-extra.doc.r%{version}.tar.xz
